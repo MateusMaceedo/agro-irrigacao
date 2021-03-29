@@ -10,6 +10,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 <img src="https://trello-attachments.s3.amazonaws.com/60271f90a8474b8ce248783a/887x552/f8ecc0880181ff45c420e80a9b274bd3/AgronegocioVisionBox.png" width="887" height="552">
 
 ## Contruibuidores
-[Mateus Macedo](https://github.com/MateusMaceedo)
-[Allan Machado]()
+
+- [Mateus Macedo](https://github.com/MateusMaceedo)
+- [Allan Machado]()
 
