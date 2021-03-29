@@ -12,5 +12,5 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 ## Contruibuidores
 
 - [Mateus Macedo](https://github.com/MateusMaceedo)
-- [Allan Machado]()
+- [Allan Machado](https://github.com/allanrodriguesmachado)
 
