@@ -9,6 +9,20 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 #### Product Vision Box
 <img src="https://trello-attachments.s3.amazonaws.com/60271f90a8474b8ce248783a/887x552/f8ecc0880181ff45c420e80a9b274bd3/AgronegocioVisionBox.png" width="887" height="552">
 
+## Atividades para o desenvolvimento
+[x](Elaboração do Conceito e definição de escopo)
+[x](Entrar em contato com Stakeholder)
+[x](Definir o escopo do projeto)
+[x](Retorno Stakeholder)
+[x](Desenvolver Product Vision Box)
+[x](Criar documentação, BPMN (diagrama))
+[x](Elaboração de DFD de contexto e DFD de niveis)
+[x](Desenvolver diagrama de casos (Enterprise architect))
+[x](Marco 01 do Projeto - Primeira versão do Diagrama de Casos de Uso)
+[x](Revisar requisitos funcionais)
+[x](Deploy)
+[x](Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".)
+
 ## Contruibuidores
 
 - [Mateus Macedo](https://github.com/MateusMaceedo)
