@@ -21,7 +21,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 - [x] Desenvolver diagrama de casos (Enterprise architect)
 - [x] Marco 01 do Projeto - Primeira versão do Diagrama de Casos de Uso
 - [x] Revisar requisitos funcionais
-- [x] Deploy
+- [ ] Deploy
 - [x] Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".
 
 ## Contruibuidores
