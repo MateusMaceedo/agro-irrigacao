@@ -32,4 +32,22 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 
 - [Mateus Macedo](https://github.com/MateusMaceedo)
 - [Allan Machado](https://github.com/allanrodriguesmachado)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/allanrodriguesmachado">
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Allan Machado no GitHub"/><br>
+        <sub>
+          <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/MateusMaceedo">
+        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do Mateus Macedo no GitHub"/><br>
+        <sub>
+          <b>Mateus Macedo</b>
+        </sub>
+      </a><br>
+    </td>
+</table>
