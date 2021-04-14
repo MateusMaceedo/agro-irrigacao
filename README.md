@@ -44,7 +44,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
     </td>
    <td align="center">
       <a href="https://github.com/MateusMaceedo">
-        <img src="https://avatars1.githubusercontent.com/u/35854466" width="100px;" alt="Foto do Mateus Macedo no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/63172367?v=4" width="100px;" alt="Foto do Mateus Macedo no GitHub"/><br>
         <sub>
           <b>Mateus Macedo</b>
         </sub>
