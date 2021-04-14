@@ -38,7 +38,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
       <a href="https://github.com/allanrodriguesmachado">
         <img src="https://avatars.githubusercontent.com/u/54523516?v=4" width="100px;" alt="Foto do Allan Machado no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Allan Machado</b>
         </sub>
       </a>
     </td>
