@@ -29,9 +29,6 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 - [x] Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".
 
 ## Contruibuidores
-
-- [Mateus Macedo](https://github.com/MateusMaceedo)
-- [Allan Machado](https://github.com/allanrodriguesmachado)
 <table>
   <tr>
     <td align="center">
