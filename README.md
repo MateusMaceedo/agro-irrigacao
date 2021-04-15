@@ -55,6 +55,11 @@ A9                  | Sensor de Chuva                        |
 35                  | Sensor Umi. e Temp.                    | 
 18                  | Sensor de Vazão                        |
 
+#### BPMN 
+<h1 align="center">
+<img src="https://trello-attachments.s3.amazonaws.com/60271ee1f6dad75c4b9a2b4b/60271f90a8474b8ce248783a/02a9354496f33e75ce8baad333fd0bd2/agro_Diagrama.png" width="700" height="672.82">
+</h1>
+
 ## Instalação do Software
 
 * **BAIXAR O PROGRAMA**: Para baixar o código, aperte o botão de download ou clone via terminal ou cmd.:
