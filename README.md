@@ -45,7 +45,7 @@ Esquema de montagem do Sistema de irrigação inteligente. Foram conectados à p
  </h1>
  
  PINOS               | DESCRIÇÃO          | UTILIDADE        |
-------------------- | -------------------                    |
+------------------- | ------------------- |-------------------|
 A0 - A4             | Display TFT                            |      
 A8                  | Sensor Umi. Do Solo                    |
 A9                  | Sensor de Chuva                        |
