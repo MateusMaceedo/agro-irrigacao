@@ -44,6 +44,31 @@ Esquema de montagem do Sistema de irrigação inteligente. Foram conectados à p
  <img src="https://www.researchgate.net/profile/Marcello-Amorim/publication/320995131/figure/fig6/AS:631636836241418@1527605365378/figure-fig6.png" width="700" height="474.34">
  </h1>
  
+ PINOS               | DESCRIÇÃO     
+------------------- | -------------------
+A0 - A4             | Display TFT                        
+A8                  | Sensor Umi. Do Solo    
+A9                  | Sensor de Chuva               
+39,41,43            | LEDs                      
+42,44,46,48         | Reles                         
+25                  | Sensor Umi. Do Solo           
+35                  | Sensor Umi. e Temp.                      
+18                  | Sensor de Vazão
+
+## Instalação do Software
+
+* **BAIXAR O PROGRAMA**: Para baixar o código, aperte o botão de download ou clone via terminal ou cmd.:
+
+   ```git
+   git clone https://github.com/MrKruger/AUTOMATED-IRRIGATION.git
+   ```
+
+* **BAIXAR O ARDUINO IDE**: Baixe e instale a última versão do Arduino IDE pelo site oficial.: https://www.arduino.cc/en/Main/Software.
+
+* **BAIXAR AS BIBLIOTECAS NECESSÁRIOAS**: Para que o programa funcione corretamente é necessária a utilização de algumas bibliotecas. Após realizar a instalação do Arduino IDE, abra o software e vá na aba Sketch/Incluir Biblioteca/Gerenciar Bibliotecas. Depois na caixa de pesquisa digite as bibliotecas utilizadas, Adafruit GFX Library, Adafruit TFT(HX8340B), DHT sensor library e DS3231. Procure uma biblioteca de cada vez clique e instale. Priorize os fornecedores de software Adafruit já que os dispositivos eletrônicos utilizados são da mesma marca.:
+
+* **EXECUTAR O CÓDIGO**: Após baixar e instalar o Arduino IDE juntamente com as bibliotecas necessárias, abra o Arduino IDE, vá na aba Arquivo/Abrir e procure a pasta aonde foi baixado o projeto. Depois selecione o arquivo Irrigation.ino. Agora é preciso apenas plugar o Arduino em qualquer entrada usb do computador, ir na aba Ferramentas/Placas e selecionar o seu modelo do Arduino, ir na aba Ferramentas/Porta e verificar se o Arduino foi reconhecido, depois é só clicar em Carregar.
+ 
 ## Contruibuidores
 <table>
   <tr>
