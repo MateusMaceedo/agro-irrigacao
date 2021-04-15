@@ -60,7 +60,7 @@ A9                  | Sensor de Chuva
 * **BAIXAR O PROGRAMA**: Para baixar o código, aperte o botão de download ou clone via terminal ou cmd.:
 
    ```git
-   git clone https://github.com/MrKruger/AUTOMATED-IRRIGATION.git
+   git clone https://github.com/MateusMaceedo/agro-irrigacao.git
    ```
 
 * **BAIXAR O ARDUINO IDE**: Baixe e instale a última versão do Arduino IDE pelo site oficial.: https://www.arduino.cc/en/Main/Software.
