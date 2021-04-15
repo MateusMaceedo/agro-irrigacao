@@ -38,7 +38,12 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 <p align="justify">
 Esquema de montagem do Sistema de irrigação inteligente. Foram conectados à placa de circuitos integrado: o sensor de chuva YL-83 com comparador LM393, com saídas digital e analógica; o sensor de umidade de solo HL69, Relé SRD-05VDC-SL-C; e os leds indicadores. O led vermelho indica ausência de chuva e umidade em solo, situação na qual era disparado um evento que aciona a bomba de água por meio do relé, com o objetivo de irrigar o solo. O led verde indica a presença de chuva, e o amarelo indica que o nível de água em solo está adequado. O sensor de chuva funciona como um medidor de resistência, conforme o nível de água no sensor aumenta a resistência diminui e assim ele pode indicar se está chovendo. Caso o nível de chuva indicado pelo sensor seja suficiente para garantir um nível de umidade necessária no solo, o sistema mantém a bomba de água desligada, evitando desperdício de água e energia, assim como desgaste do equipamento. Para garantir o funcionamento correto, o sensor de umidade foi posicionado no mesmo nível das raízes das plantas, desta forma foi possível identificar o nível de umidade no solo em torno delas. O limiar de ativação inferior do sensor de umidade foi de 80%, valores inferiores a este indicam que as plantas necessitam de mais água no solo. O SII também permite configurar a vazão da bomba de água, assim foi possível.
 <p>
-
+ 
+ #### Fluxo de Atividades
+ <h1 align="center">
+ <img src="https://www.researchgate.net/profile/Marcello-Amorim/publication/320995131/figure/fig6/AS:631636836241418@1527605365378/figure-fig6.png" width="700" height="474.34">
+ </h1>
+ 
 ## Contruibuidores
 <table>
   <tr>
