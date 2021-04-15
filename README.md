@@ -57,7 +57,7 @@ A9                  | Sensor de Chuva                        |
 
 #### BPMN 
 <h1 align="center">
-<img src="https://trello-attachments.s3.amazonaws.com/60271ee1f6dad75c4b9a2b4b/60271f90a8474b8ce248783a/02a9354496f33e75ce8baad333fd0bd2/agro_Diagrama.png" width="1261" height="1323.73">
+<img src="https://trello-attachments.s3.amazonaws.com/60271ee1f6dad75c4b9a2b4b/60271f90a8474b8ce248783a/02a9354496f33e75ce8baad333fd0bd2/agro_Diagrama.png" width="700" height="672.82">
 </h1>
 
 ## Instalação do Software
