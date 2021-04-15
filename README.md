@@ -30,7 +30,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 - [ ] Deploy
 - [x] Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".
 
-#### Esquema de Montagem Sistema de Irrigação com Arduino
+#### Esquema de Montagem Sistema de Irrigação com Arduino (1° Opção)
 <h1 align="center">
 <img src="https://www.researchgate.net/profile/Marcello-Amorim/publication/320995131/figure/fig1/AS:559314113122304@1510362284107/Figura-1-Esquema-de-montagem-do-Sistema-de-irrigacao-inteligente-Foram-conectados-a.png" width="700" height="672.82">
 </h1>
