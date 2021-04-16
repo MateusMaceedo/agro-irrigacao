@@ -44,7 +44,6 @@ Esquema de montagem do Sistema de irrigação inteligente. Foram conectados à p
  <img src="https://www.researchgate.net/profile/Marcello-Amorim/publication/320995131/figure/fig6/AS:631636836241418@1527605365378/figure-fig6.png" width="700" height="474.34">
  </h1>
  
- <h1 align="center"> 
  PINOS               | DESCRIÇÃO          | UTILIDADE         | MODELO            | MARCA             | TENSÂO            |
 ------------------- | ------------------- |-------------------|-------------------|-------------------|-------------------|
 A0 - A4             | Display TFT                            |                    |                   |                   |
@@ -55,7 +54,6 @@ A9                  | Sensor de Chuva                        |                  
 25                  | Sensor Umi. Do Solo                    |                    |                   |                   |
 35                  | Sensor Umi. e Temp.                    |                    |                   |                   |
 18                  | Sensor de Vazão                        |                    |                   |                   |
- </h1>
 
 #### BPMN 
 <h1 align="center">
