@@ -95,10 +95,12 @@ A9                  | Sensor de Chuva                        |                  
     </td>
      <td align="center">
       <a href="https://github.com/Ryanstradioti">
-        <img src="https://avatars.githubusercontent.com/u/63172367?v=4" width="100px;" alt="Foto do Ryan Gustavo no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/66812731?v=4" width="100px;" alt="Foto do Ryan Gustavo no GitHub"/><br>
         <sub>
           <b>Ryan Gustavo</b>
         </sub>
       </a><br>
     </td>
 </table>
+
+
