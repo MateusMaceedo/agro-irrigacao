@@ -28,7 +28,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 - [x] Marco 01 do Projeto - Primeira versão do Diagrama de Casos de Uso
 - [x] Revisar requisitos funcionais
 - [ ] Deploy
-- [x] Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".
+- [ ] Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".
 
 #### Esquema de Montagem Sistema de Irrigação com Arduino (1° Opção)
 <h1 align="center">
