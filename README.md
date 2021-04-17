@@ -103,9 +103,9 @@ A9                  | Sensor de Chuva                        |                  
     </td>
       <td align="center">
       <a href="https://github.com/Joaoloxn">
-        <img src="https://avatars.githubusercontent.com/u/77245207?v=4" width="100px;" alt="Foto do Ryan Gustavo no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/77245207?v=4" width="100px;" alt="Foto do João Victor no GitHub"/><br>
         <sub>
-          <b>Ryan Gustavo</b>
+          <b>João Victor</b>
         </sub>
       </a><br>
     </td>
