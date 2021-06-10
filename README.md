@@ -27,8 +27,10 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 - [x] Desenvolver diagrama de casos (Enterprise architect)
 - [x] Marco 01 do Projeto - Primeira versão do Diagrama de Casos de Uso
 - [x] Revisar requisitos funcionais
-- [ ] Deploy
+- [x] Modelagem de classes
+- [x] Modelagem de classes
 - [ ] Criar Banco de Dados. (Tabelas, dados estáticos, relacionamento e modelagem do dados) - "Formas normais".
+- [ ] Implementação do banco de dados
 
 #### Esquema de Montagem Sistema de Irrigação com Arduino (1° Opção)
 <h1 align="center">
@@ -113,5 +115,4 @@ A9                  | Sensor de Chuva                        |                  
 
 ### Copyright
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bruno A. R. M. Campos</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
 
