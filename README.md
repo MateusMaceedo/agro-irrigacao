@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://library.kissclipart.com/20180918/qxw/kissclipart-vegetable-garden-icon-clipart-computer-icons-garde-d3eb8337dd2b38bb.png" width="235" height="235">
+<img src="https://github.com/MateusMaceedo/agro-irrigacao/blob/main/Logo/agroLogo.png?raw=true" width="235" height="235">
  <br>
  Agro Irrigação
 </h1>
