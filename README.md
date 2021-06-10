@@ -9,6 +9,7 @@ Este programa é um projeto de automação de irrigação para jardins e hortas 
 <p>
 
 [Documentação Notion](https://www.notion.so/Agroneg-cio-Irriga-o-0ebab5f47b8446da8c02cd44154d3e2a)
+[Metodologia e Desenvolvimento](https://trello.com/c/t9CyUzKw/5-equipe-02-agroneg%C3%B3cio)
 
 #### Product Vision Box
 <h1 align="center">
